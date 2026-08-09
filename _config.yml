@@ -1,0 +1,19 @@
+title: Münster Mesh
+description: Dezentrales MeshCore-Netzwerk im Münsterland
+url: "https://yourusername.github.io" # TODO: set your real GitHub username
+baseurl: "/muenstermesh"
+lang: de
+
+# Build
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# No extra plugins — works with default GitHub Pages
+plugins: []
+
+# Exclude non-website files from build output
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
