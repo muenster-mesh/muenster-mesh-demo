@@ -1,7 +1,7 @@
 title: Münster Mesh
 description: Dezentrales MeshCore-Netzwerk im Münsterland
-url: "https://muenster-mesh.github.io"
-baseurl: "/muenster-mesh-demo"
+url: "https://muenster-mesh.de/"
+baseurl: "/"
 lang: de
 
 # Build
