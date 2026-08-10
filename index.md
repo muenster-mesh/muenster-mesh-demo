@@ -9,7 +9,7 @@ title: Münster Mesh
 
 Wir bauen ein offenes, dezentrales Funknetzwerk im Münsterland auf — unabhängig von Internet und Mobilfunk.
 
-Das Projekt startet gerade. Wenn du mitmachen oder auf dem Laufenden bleiben möchtest, schaue bald wieder hier vorbei!
+Diese Info-Seite startet vorraussichtlich Ende September 2026. Wenn du auf dem Laufenden bleiben möchtest, schaue bald wieder hier vorbei!
 
 </div>
 </section>
